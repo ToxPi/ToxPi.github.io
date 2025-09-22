@@ -1,4 +1,5 @@
 ---
+title: ToxPi - The Toxicological Prioritization Index
 layout: default
 ---
 
