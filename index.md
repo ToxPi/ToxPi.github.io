@@ -7,31 +7,31 @@ layout: default
 
 ------------------------------------------------------------------------
 
-I am a placeholder to discuss ToxPi
+> I am a placeholder to discuss ToxPi
 
 # Projects
 
 ------------------------------------------------------------------------
 
-I am a placeholder to give an overview of the ongoing projects, followed by a subsection for each project.
+> I am a placeholder to give an overview of the ongoing projects, followed by a subsection for each project.
 
-## toxpiR
+- ## toxpiR
 
-Placeholder to discuss toxpiR
+> Placeholder to discuss toxpiR
 
-## ToxPi Java GUI
+- ## ToxPi Java GUI
 
-Placeholder to discuss Java GUI
+> Placeholder to discuss Java GUI
 
-## ToxPi\*GIS
+- ## ToxPi\*GIS
 
-Placeholder to discuss ToxPi\*GIS
+> Placeholder to discuss ToxPi\*GIS
 
 # Publications
 
 ------------------------------------------------------------------------
 
-Discussion of where to find publications
+> Discussion of where to find publications
 
 ## Main Publications
 
