@@ -7,7 +7,7 @@ layout: default
 
 ------------------------------------------------------------------------
 
-> I am a placeholder to discuss ToxPi
+> I am a placeholder to discuss ToxPi. This site is an index for the various ToxPi software options.
 
 # Projects
 
