@@ -17,9 +17,9 @@ layout: default
 
 ## toxpiR
 
-- GitHub for toxpiR package (includes branches under active development with new features): https://github.com/ToxPi/toxpiR
+- GitHub for toxpiR package (includes branches under active development with new features): [toxpiR GitHub](https://github.com/ToxPi/toxpiR)
 
-- CRAN version of toxpiR package (stable release): https://CRAN.R-project.org/package=toxpiR
+- CRAN version of toxpiR package (stable release): [toxpiR on CRAN](https://CRAN.R-project.org/package=toxpiR)
 
 ## ToxPi Java GUI
 
