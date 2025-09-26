@@ -40,5 +40,5 @@ layout: default
 
 ## Citations
 
--   Bulleted list of notable citations for ToxPi papers
--   Citation 2
+-   [Applications](https://www.google.com/search?as_q=toxpi&as_epq=&as_oq=toxpi+OR+ToxPi+OR+Toxicological+prioritization+index&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&as_filetype=&tbs=)
+-   [Peer-reviewed publications](https://scholar.google.com/scholar?hl=en&as_sdt=7%2C34&q=toxpi+&btnG=)
