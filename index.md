@@ -3,6 +3,8 @@ title: ToxPi - The Toxicological Prioritization Index
 layout: default
 ---
 
+![ToxPi profiles](https://github.com/ToxPi/ToxPi.github.io/blob/main/assets/ToxPi-graphic_4-profiles.png)
+
 # Introduction
 
 ------------------------------------------------------------------------
