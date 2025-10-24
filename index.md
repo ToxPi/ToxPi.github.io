@@ -31,7 +31,7 @@ layout: default
 
 ## ToxPi\*GIS
 
-- Toolkit for integrating ToxPi models with GIS mapping applications: (https://www.nature.com/articles/s41370-022-00433-w)
+- Toolkit for integrating ToxPi models with GIS mapping applications: [ToxPi*GIS Toolkit](https://www.nature.com/articles/s41370-022-00433-w)
 
 # Publications
 
